@@ -92,5 +92,6 @@ export default {
   color: #fff;
   z-index: 1;
   letter-spacing: 0.05em;
+  user-select: none;
 }
 </style>
